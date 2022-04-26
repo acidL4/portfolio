@@ -60,6 +60,7 @@ body {
 .social-container .social {
   text-align: center;
 }
+
 @media screen and (max-width: 968px) {
   .main-container {
     display: flex;
