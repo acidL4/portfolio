@@ -1,0 +1,65 @@
+.main-container{
+    
+    .profile-img{
+        display: block;
+        float: right;   
+        max-width: 90%;
+    }
+    .intro{
+
+        h1{
+        color: #736CED;
+        font-weight: bolder;
+        }
+        h2{
+            color: #9F9FED;
+            font-weight: bold;
+        }
+    
+    }
+
+
+}
+.bio-container{
+    margin-top: 5rem;
+
+    .bio{
+        background-color: #D4C1EC;
+        border-radius: 8px;
+        border: #9F9FED 2px solid;
+        padding: 1rem;
+        width: 45%;
+            h2{
+                color: #9F9FED;
+                font-weight: bold;
+            }
+    }
+    .services{
+        background-color: #D4C1EC;
+        border-radius: 8px;
+        border: #9F9FED 2px solid;
+        padding: 1rem;
+        width: 45%;
+            h2{
+                color: #9F9FED;
+                font-weight: bold;
+            }
+    }
+ }
+
+ .social-container{
+    margin-top: 3rem;
+    background-color: #D4C1EC;
+    border-radius: 8px;
+    border: #9F9FED 2px solid;
+
+    
+    .social{
+        text-align: center;
+        .social-icon{
+          
+        }
+    }
+ }
+
+
